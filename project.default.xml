@@ -1,11 +1,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
-        <ADDITIONAL_GENERATION_ENVIRONMENT>
-          <envs />
-        </ADDITIONAL_GENERATION_ENVIRONMENT>
-      </component>
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
@@ -18,10 +13,6 @@
         <OptionsSetting value="true" id="Edit" />
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
-      </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
     </defaultProject>
   </component>
