@@ -31,9 +31,9 @@
       <ParserOptions>
         <option name="COMMONMARK_LISTS" value="false" />
         <option name="DUMMY" value="false" />
-        <option name="EMOJI_SHORTCUTS" value="true" />
+        <option name="EMOJI_SHORTCUTS" value="false" />
         <option name="FLEXMARK_FRONT_MATTER" value="false" />
-        <option name="GFM_TABLE_RENDERING" value="true" />
+        <option name="GFM_TABLE_RENDERING" value="false" />
         <option name="GITBOOK_URL_ENCODING" value="false" />
         <option name="GITHUB_EMOJI_URL" value="false" />
         <option name="GITHUB_LISTS" value="false" />
