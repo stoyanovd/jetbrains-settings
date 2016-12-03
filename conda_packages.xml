@@ -323,7 +323,7 @@
         <entry key="mathjax" value="2.2" />
         <entry key="matplotlib" value="1.5.3" />
         <entry key="matplotlib-tests" value="1.5.1" />
-        <entry key="mayavi" value="4.4.0" />
+        <entry key="mayavi" value="4.5.0" />
         <entry key="mccabe" value="0.3.1" />
         <entry key="mdp" value="3.5" />
         <entry key="meld3" value="1.0.2" />
@@ -363,7 +363,7 @@
         <entry key="nb_conda_kernels" value="2.0.0" />
         <entry key="nb_config_manager" value="0.1.3" />
         <entry key="nbconvert" value="4.2.0" />
-        <entry key="nbformat" value="4.1.0" />
+        <entry key="nbformat" value="4.2.0" />
         <entry key="nbpresent" value="3.0.2" />
         <entry key="nbsetuptools" value="0.1.5" />
         <entry key="ncurses" value="5.9" />
@@ -526,7 +526,7 @@
         <entry key="reportlab" value="3.3.0" />
         <entry key="repoze.lru" value="0.6" />
         <entry key="requests" value="2.12.1" />
-        <entry key="requests-file" value="1.4" />
+        <entry key="requests-file" value="1.4.1" />
         <entry key="requests-kerberos" value="0.8.0" />
         <entry key="responses" value="0.5.1" />
         <entry key="rope" value="0.9.4" />
@@ -4143,6 +4143,7 @@
               <option value="4.3.0" />
               <option value="4.3.1" />
               <option value="4.4.0" />
+              <option value="4.5.0" />
             </list>
           </value>
         </entry>
@@ -4503,6 +4504,7 @@
               <option value="4.0.1" />
               <option value="4.0.0" />
               <option value="4.1.0" />
+              <option value="4.2.0" />
             </list>
           </value>
         </entry>
@@ -6268,6 +6270,7 @@
           <value>
             <list>
               <option value="1.4" />
+              <option value="1.4.1" />
             </list>
           </value>
         </entry>
@@ -7673,6 +7676,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1480670913318" />
+    <option name="LAST_TIME_CHECKED" value="1480770352869" />
   </component>
 </application>
