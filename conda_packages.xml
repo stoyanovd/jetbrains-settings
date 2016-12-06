@@ -262,7 +262,7 @@
         <entry key="jupyter" value="1.0.0" />
         <entry key="jupyter_client" value="4.4.0" />
         <entry key="jupyter_console" value="5.0.0" />
-        <entry key="jupyter_core" value="4.2.0" />
+        <entry key="jupyter_core" value="4.2.1" />
         <entry key="kealib" value="1.4.6" />
         <entry key="keras" value="1.1.1" />
         <entry key="keyring" value="9.3.1" />
@@ -598,7 +598,7 @@
         <entry key="thrift" value="0.9.3" />
         <entry key="thriftpy" value="0.3.8" />
         <entry key="tk" value="8.5.18" />
-        <entry key="toolz" value="0.8.0" />
+        <entry key="toolz" value="0.8.1" />
         <entry key="tornado" value="4.4.2" />
         <entry key="toro" value="1.0.1" />
         <entry key="traitlets" value="4.3.1" />
@@ -642,7 +642,7 @@
         <entry key="xarray" value="0.8.2" />
         <entry key="xerces-c" value="3.1.4" />
         <entry key="xlrd" value="1.0.0" />
-        <entry key="xlsxwriter" value="0.9.3" />
+        <entry key="xlsxwriter" value="0.9.4" />
         <entry key="xlutils" value="2.0.0" />
         <entry key="xlwt" value="1.1.2" />
         <entry key="xmlrpc2" value="0.3.1" />
@@ -3581,6 +3581,7 @@
               <option value="4.0.6" />
               <option value="4.1.0" />
               <option value="4.0.3" />
+              <option value="4.2.1" />
             </list>
           </value>
         </entry>
@@ -7080,6 +7081,7 @@
               <option value="0.7.0" />
               <option value="0.6.0" />
               <option value="0.8.0" />
+              <option value="0.8.1" />
             </list>
           </value>
         </entry>
@@ -7528,6 +7530,7 @@
               <option value="0.7.7" />
               <option value="0.8.5" />
               <option value="0.8.2" />
+              <option value="0.9.4" />
             </list>
           </value>
         </entry>
@@ -7676,6 +7679,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1480872160734" />
+    <option name="LAST_TIME_CHECKED" value="1481026482489" />
   </component>
 </application>
