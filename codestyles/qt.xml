@@ -17,6 +17,9 @@
     <option name="SPACE_BEFORE_SUPERCLASS_COLON" value="false" />
   </Objective-C>
   <Objective-C-extensions>
+    <option name="GENERATE_INSTANCE_VARIABLES_FOR_PROPERTIES" value="ASK" />
+    <option name="RELEASE_STYLE" value="IVAR" />
+    <option name="TYPE_QUALIFIERS_PLACEMENT" value="BEFORE" />
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
@@ -41,6 +44,9 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="ObjectiveC">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
