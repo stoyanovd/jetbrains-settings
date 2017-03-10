@@ -10,7 +10,7 @@
         <entry key="affine" value="2.0.0" />
         <entry key="alabaster" value="0.7.10" />
         <entry key="alpaca_static" value="1.5.22" />
-        <entry key="anaconda" value="4.3.0" />
+        <entry key="anaconda" value="4.3.1" />
         <entry key="anaconda-build" value="1.15.0" />
         <entry key="anaconda-clean" value="1.1.0" />
         <entry key="anaconda-client" value="1.6.2" />
@@ -101,7 +101,7 @@
         <entry key="colorcet" value="0.9.1" />
         <entry key="conda" value="4.3.14" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="2.1.5" />
+        <entry key="conda-build" value="2.1.6" />
         <entry key="conda-build-all" value="1.0.1" />
         <entry key="conda-env" value="2.6.0" />
         <entry key="conda-manager" value="0.4.0" />
@@ -113,7 +113,7 @@
         <entry key="constantly" value="15.1.0" />
         <entry key="constructor" value="1.5.4" />
         <entry key="contextlib2" value="0.5.4" />
-        <entry key="continuum-docs" value="2.0.4" />
+        <entry key="continuum-docs" value="2.0.7" />
         <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
         <entry key="coverage" value="4.3.4" />
@@ -391,6 +391,7 @@
         <entry key="neon" value="1.5.4" />
         <entry key="netcdf4" value="1.2.4" />
         <entry key="networkx" value="1.11" />
+        <entry key="nginx" value="1.10.3" />
         <entry key="nltk" value="3.2.2" />
         <entry key="node" value="0.8.7" />
         <entry key="node-webkit" value="0.10.1" />
@@ -550,7 +551,7 @@
         <entry key="readline" value="6.2" />
         <entry key="redis" value="3.2.0" />
         <entry key="redis-py" value="2.10.5" />
-        <entry key="reportlab" value="3.3.0" />
+        <entry key="reportlab" value="3.4.0" />
         <entry key="repoze.lru" value="0.6" />
         <entry key="requests" value="2.13.0" />
         <entry key="requests-file" value="1.4.1" />
@@ -820,6 +821,7 @@
               <option value="2.4.0" />
               <option value="1.9.2" />
               <option value="4.3.0" />
+              <option value="4.3.1" />
             </list>
           </value>
         </entry>
@@ -2038,6 +2040,7 @@
               <option value="2.1.5" />
               <option value="2.1.2" />
               <option value="2.1.4" />
+              <option value="2.1.6" />
             </list>
           </value>
         </entry>
@@ -2171,6 +2174,7 @@
               <option value="2.0.0" />
               <option value="2.0.2" />
               <option value="2.0.4" />
+              <option value="2.0.7" />
             </list>
           </value>
         </entry>
@@ -4873,6 +4877,13 @@
             </list>
           </value>
         </entry>
+        <entry key="nginx">
+          <value>
+            <list>
+              <option value="1.10.3" />
+            </list>
+          </value>
+        </entry>
         <entry key="nltk">
           <value>
             <list>
@@ -6622,6 +6633,7 @@
               <option value="3.2.0" />
               <option value="3.3.0" />
               <option value="3.1.8" />
+              <option value="3.4.0" />
             </list>
           </value>
         </entry>
@@ -8156,6 +8168,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1488995573631" />
+    <option name="LAST_TIME_CHECKED" value="1489172142638" />
   </component>
 </application>
