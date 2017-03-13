@@ -570,7 +570,7 @@
         <entry key="scikit-learn" value="0.18.1" />
         <entry key="scikit-rf" value="0.14.3" />
         <entry key="scikits-image" value="0.7.1" />
-        <entry key="scipy" value="0.18.1" />
+        <entry key="scipy" value="0.19.0" />
         <entry key="scons" value="2.3.0" />
         <entry key="scrapy" value="1.1.1" />
         <entry key="seaborn" value="0.7.1" />
@@ -6864,6 +6864,7 @@
               <option value="0.13.0" />
               <option value="0.15.1" />
               <option value="0.18.0" />
+              <option value="0.19.0" />
             </list>
           </value>
         </entry>
@@ -8168,6 +8169,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1489321878808" />
+    <option name="LAST_TIME_CHECKED" value="1489430072078" />
   </component>
 </application>
